@@ -1,0 +1,19 @@
+{
+    "students":[
+        {
+            "name": "Ilgar",
+            "surname": "Guliyev",
+            "age": 20
+        },
+        {
+            "name": "Seid",
+            "surname": "Eliyev",
+            "age": 20
+        },
+        {
+            "name": "Gulchin",
+            "surname": "Isgenderov",
+            "age": 20
+        }
+    ]
+}
